@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary_green">#064E3B</color>
+    <color name="primary_green_dark">#032014</color>
+    <color name="accent_gold">#D97706</color>
+    <color name="soil_brown">#78350F</color>
+    <color name="surface_light">#F0FDF4</color>
+    <color name="surface_dark">#06140F</color>
+</resources>

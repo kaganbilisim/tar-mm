@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tarım Cepte</string>
+    <string name="app_tagline">Hasat, Tahsilat &amp; Bahçe Takibi</string>
+    
+    <!-- Navigasyon Sekmeleri -->
+    <string name="nav_home">Hasat</string>
+    <string name="nav_marketplace">Pazar Yeri</string>
+    <string name="nav_add_harvest">Hasat Ekle</string>
+    <string name="nav_receivables">Tahsilat</string>
+    <string name="nav_operations">İşlemler</string>
+    
+    <!-- Bildirim Kanalları -->
+    <string name="notification_channel_tasks_name">Hasat ve Görev Hatırlatıcıları</string>
+    <string name="notification_channel_tasks_desc">Vadesi yaklaşan alacaklar ve bahçe bakım günleri</string>
+    <string name="notification_channel_agri_name">Zirai Uyarılar ve Hava Durumu</string>
+    <string name="notification_channel_agri_desc">Külleme, fındık kurdu ilaçlama ve don uyarıları</string>
+    
+    <!-- Hata ve Durum Mesajları -->
+    <string name="error_network_timeout">Bağlantı zaman aşımına uğradı. Çevrimdışı veriler gösteriliyor.</string>
+    <string name="empty_harvests">Henüz hasat teslimat kaydı bulunmuyor.</string>
+    <string name="empty_receivables">Açık vadeli alacak kaydınız bulunmamaktadır.</string>
+    <string name="empty_jobs">Kriterlere uygun iş ilanı bulunamadı.</string>
+    <string name="demo_data_notice">Bu ekrandaki veriler demo ve tanıtım amaçlıdır.</string>
+</resources>

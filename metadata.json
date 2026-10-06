@@ -1,0 +1,8 @@
+{
+  "name": "Tarım Cepte - Hasat & Bahçe Takibi",
+  "description": "Karadeniz çay ve fındık üreticileri için hasat, tahsilat, alacak takibi, bahçe yönetimi ve yapay zeka ziraat asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
